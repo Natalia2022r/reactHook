@@ -3,7 +3,7 @@ import { TableContainer, Table, TableHead, TableBody, TableRow, TableCell, Paper
 import {Female, Transgender, Male} from "@mui/icons-material"
 import Avatar from '@mui/material/Avatar';
 import './Contacts.css'
-import {contacts as DATA} from '../../constants';
+import {contacts as DATA} from '../constants';
 import {useEffect, useState} from "react";
 import { TextField } from "@mui/material";
 
