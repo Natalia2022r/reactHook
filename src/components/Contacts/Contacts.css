@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.heard{
+    text-align: center;
+}
+.input{
+   max-width: 500px;
+}
+.table{
+width: 1000px;
+margin: 0 auto;
+}
+.avatar{
+    margin: 0 auto;
+}
+.gender{
+margin: 20px;
+
+}
+.checkbox{
+    width: 20px;
+    height: 20px;
+}
